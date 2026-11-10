@@ -1,0 +1,8 @@
+{
+  "name": "office-life-simulator-2d",
+  "version": "1.0.0",
+  "description": "Office Life Simulator 2D - server lokal untuk guru dan murid",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
